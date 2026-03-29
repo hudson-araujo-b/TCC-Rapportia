@@ -1,4 +1,4 @@
-# 🎮 Rapportia — Site Institucional
+#  Rapportia — Site Institucional
 
 Site institucional da **Rapportia**, desenvolvedora indie brasileira fictícia criada como parte do Trabalho de Conclusão de Curso (TCC). A empresa foi responsável pelo desenvolvimento do jogo **A Última Luz**.
 
