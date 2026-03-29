@@ -35,7 +35,4 @@ Este site foi desenvolvido como entrega do TCC, representando o site oficial da 
   
 ---
 
-##  Links
-
--  Repositório original do site: [Site-Rapportia](https://github.com/Sleewp/Site-Rapportia)
--  TCC completo (códigos e explicação do jogo): [RAPPORTIA](https://github.com/susuu25/RAPPORTIA)
+##  TCC completo (códigos e explicação do jogo): [RAPPORTIA](https://github.com/susuu25/RAPPORTIA)
