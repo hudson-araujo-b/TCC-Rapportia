@@ -1,6 +1,6 @@
-#  Rapportia — Site Institucional
+#  Rapportia
 
-## [Site](https://hudson-araujo-b.github.io/TCC-Rapportia/)
+## [Rapportia](https://hudson-araujo-b.github.io/TCC-Rapportia/)
 
 Site institucional da **Rapportia**, desenvolvedora indie brasileira fictícia criada como parte do Trabalho de Conclusão de Curso (TCC). A empresa foi responsável pelo desenvolvimento do jogo **A Última Luz**.
 
@@ -10,7 +10,7 @@ Site institucional da **Rapportia**, desenvolvedora indie brasileira fictícia c
 
 ##  Sobre o Projeto
 
-Este site foi desenvolvido como entrega do TCC, representando o site oficial da empresa fictícia Rapportia. Ele apresenta informações sobre a empresa, a equipe, o jogo desenvolvido, parceiros e formas de contato.
+Site desenvolvido como parte da entrega do TCC, representando o site oficial da empresa fictícia Rapportia. Ele apresenta informações sobre a empresa, a equipe, o jogo desenvolvido, parceiros e formas de contato.
 
 ---
 
